@@ -1,0 +1,183 @@
+/* Start Main Rules*/
+
+body
+{
+	background:#F4F4F4;
+	font-size: 16px;
+}
+
+/* End Main Rules*/
+/* Start Login Form*/
+
+
+.login{
+	width: 300px;
+	margin: 130px auto;
+
+}
+
+.login input{
+	margin-bottom: 12px;
+font-size: 16px;
+}
+
+
+.login .form-control{
+	background:#EAEAEA;
+	color:#526e82;
+		
+}
+.form-control:focus {
+    border-color: #526e82;
+	}
+
+.login .btn
+{
+	background: #526e82;
+}
+
+.login h4{
+	color:#526e82;
+}
+/* End Login Form*/
+
+
+
+/* Start subtitle Form*/
+.subtitle {
+	
+
+}
+h1{
+	margin: 40px 0;
+	color:#526e82;
+	font-size: 50px;
+	font-weight: bold;
+}
+/* End subtitle Form*/
+
+
+/* Start Member Style*/
+
+
+/* Start Update Form*/
+
+
+.updateform label
+{
+color:#526e82;
+font-weight: bold;
+}
+
+
+.updateform .form-control
+{
+color:#526e82;
+font-weight: bold;
+}
+
+.updateform .btn
+{
+background:#526e82;
+
+}
+
+.asterisk{
+	font-size: 20px;
+	position: absolute;
+	right: 30px;
+	top: 15px;
+	color: #526e82;
+}
+
+.alert-success {
+    color: #526e82;
+    background-color: #dff0d8;
+    border-color: #526e82;
+    font-weight: bold;
+}
+
+/* End Update Form*/
+
+/* End Member Style*/
+
+/* Start Edit Bootstrap*/
+
+/* Start navbar Bootstrap*/
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navbar-inverse .navbar-nav > .open > a,
+ .navbar-inverse .navbar-nav > .open > a:hover,
+  .navbar-inverse .navbar-nav > .open > a:focus {
+   
+    background-color: #526e82;
+}
+
+.dropdown-menu {
+	background-color: #526e82;
+	padding: 0px 0;
+
+
+}
+.navbar-right .dropdown-menu {
+
+    right: -41%;
+    left: auto;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    color: #fff;
+    background-color: #222;
+	}
+
+.dropdown-menu > li > a {
+	color: #fff;
+	    padding: 8px 20px;
+}
+.navbar-brand {
+	font-size: 1em;  
+	}
+
+
+/* End navbar Bootstrap*/
+
+.form-control
+{position: relative;}
+/* End Edit Bootstrap*/
+
+/* Start Table Bootstrap*/
+
+.table-main{
+	background-color: #fff;
+	color: #526e82;
+	
+}
+.table-main tr:first-child td {
+	background-color: #526e82;
+	color: #fff;
+
+}
+
+/* End Table Bootstrap*/
+
+/* Start Site Button Theme Bootstrap*/
+.sitebtnthem
+{
+	background-color: #526e82;
+	color: #fff;
+	border: 1px solid #fff;
+	    border-radius: 4px;
+}
+
+
+
+.sitebtnthem:hover {
+    color: #526e82;
+    background-color: #fff;
+    border-color: #526e82;
+     border-radius: 4px;
+}
+
+/* End Site Button Theme Bootstrap*/
